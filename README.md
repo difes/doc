@@ -23,13 +23,13 @@ Deixe o conteúdo do seu front-end totalmente gerenciável com apenas 3 passos:
 
 ### Criar um Conta Dife
 
-Acesse o painel de controle Dife atráves [deste link](http://dife.com.br/register), cadastre-se e crie um site.
+Acesse o painel de controle Dife atráves [deste link](https://dife.com.br/register), cadastre-se e crie um site.
 
 
 ### Criar Funcionalidades
 
 
-No painel de controle, acesse o menu [Funcionalidades](http://dife.com.br/features) e clique no botão *Adicionar* para cadastrar funcionalidades.
+No painel de controle, acesse o menu [Funcionalidades](https://dife.com.br/features) e clique no botão *Adicionar* para cadastrar funcionalidades.
 
 
 ### Consumindo a API
@@ -65,7 +65,9 @@ O painel de controle Dife é o local onde o webdesigner cadastra o site, define 
 
 Para cadastrar uma funcionalidade, acesse a opção *Funcionalidades* no menu.
 
-![enter image description here](http://dev.dife.com.br/img/preview.png)
+![enter image description here](https://user-images.githubusercontent.com/146581/33672371-d5e39cb2-da88-11e7-8fae-b7af1b46d5ae.jpg)
+
+![enter image description here](https://user-images.githubusercontent.com/146581/33672373-d606f9aa-da88-11e7-9bd8-a5a02764c917.jpg)
 
 Clique no botão *Adicionar*. No formulário, clique no botão *Adicionar Campo*. Você pode definir as regras de cada campo, como:
 
@@ -86,7 +88,7 @@ Após o cadastro da funcionalidade, ela irá aparecer no menu ao lado para que p
 
 Caso esteja criando um site para algum cliente, você pode cadastrá-lo para que ele possa gerenciar o conteúdo. Para cadastrar um usuário, acesse a opção *Usuários* no menu.
 
-![enter image description here](http://dev.dife.com.br/img/preview.png)
+![enter image description here](https://user-images.githubusercontent.com/146581/33672374-d65740fe-da88-11e7-898f-245805ecb8f0.jpg)
 
 Clique no botão *Adicionar* e preencha o formulário.
 
@@ -98,9 +100,9 @@ Chave de acesso
 
 Para utilizar a API no front-end, você precisa de uma chave pública de seu site. A chave é que identifica seu site e dá permissão para retornar os conteúdos. Como as informações são públicas, a chave também é pública.
 
-Para obter uma chave, basta acessar o painel de controle e ir em [Configurações](http://dife.com.br/sites/edit).
+Para obter uma chave, basta acessar o painel de controle e ir em [Configurações](https://dife.com.br/sites/edit).
 
-![enter image description here](http://dev.dife.com.br/img/preview.png)
+![enter image description here](https://user-images.githubusercontent.com/146581/33672370-d5c46bb2-da88-11e7-9659-8623c2df00e0.jpg)
 
 
 Bibliotecas
@@ -123,11 +125,11 @@ bower install dife-js --save
 Utilizando direto de nosso servidor:
 
 ```html
-<script src="https://assets.dife.com.br/v1/dife.min.js"></script>
+<script src="https://dife.com.br/assets/js/dife-0.0.3.min.js"></script>
 ```
 
 Você pode baixar o arquivo:
 
 [Baixar >][download]
 
-[download]: https://assets.dife.com.br/v1/dife.min.js
+[download]: https://dife.com.br/assets/js/dife-0.0.3.min.js
